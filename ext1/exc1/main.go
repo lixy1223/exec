@@ -1,3 +1,4 @@
+//数据类型
 package main
 import "fmt"
 func main(){
