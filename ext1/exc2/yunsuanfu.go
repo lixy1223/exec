@@ -1,7 +1,7 @@
 package main
 import "fmt"
 func main(){
-	var a int
+	var a byte
 	//var b = 2
 	//a,b = b,a
 	fmt.Println("请输入年龄")
